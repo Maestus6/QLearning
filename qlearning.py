@@ -1,6 +1,9 @@
 import numpy as np
 import time
 import os
+import tkinter
+import matplotlib
+matplotlib.use('TkAgg')
 import matplotlib.pyplot as plt
 import gymnasium as gym
 import gym_examples
